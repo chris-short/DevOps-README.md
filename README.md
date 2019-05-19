@@ -1,5 +1,15 @@
 # DevOps README.md
 
+## What is DevOps
+
+* Provides a high-level defintion of DevOps
+* Attempts to balance the needs of operations, development, and organizations
+* A foundation from which to build a better definition
+* Pros: Valiant effort with feedback from a few well know DevOps professionals
+* Cons: It only defines the principle of DevOps, it does not show how it is done
+* Quip: It's better than nothing
+* URL: https://devopsish.com/what-is-devops/
+
 ## The Phoenix Project
 
 * Novel; Not your typical technical book
@@ -9,6 +19,15 @@
 * Cons: The implementation details are fuzzy
 * Quip: We all know Brent. Help Brent not be Brent.
 * URL: https://itrevolution.com/book/the-phoenix-project/
+
+## Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations
+
+* This is one of the most important book related to DevOps
+* If an organization or individual is skeptical about DevOps this book provides the ammo needed for a frank discussion
+* Pros: Lots of useful, metrics-based insights into DevOps
+* Cons: Not a light read but, well worth it
+* Quip: The audiobook is highly recommended because Nicole Forsgren reads emojis as words.
+* URL: https://amzn.to/2BFXzLU
 
 ## The DevOps Handbook
 
